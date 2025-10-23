@@ -1,0 +1,103 @@
+# =========================================
+# macOS
+# =========================================
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.DS_Store?
+Thumbs.db
+
+# =========================================
+# Python / virtualenv
+# =========================================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnements virtuels
+venv/
+env/
+ENV/
+.venv/
+env.bak/
+.Python
+
+# Packages / dépendances locales
+*.egg
+*.egg-info/
+dist/
+build/
+develop-eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+pip-wheel-metadata/
+
+# Logs et caches
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.cache
+*.pytest_cache/
+.coverage
+.coverage.*
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.hypothesis/
+htmlcov/
+
+# =========================================
+# IDE / éditeurs
+# =========================================
+# VS Code
+.vscode/
+.history/
+*.code-workspace
+
+# PyCharm / JetBrains
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# =========================================
+# Fichiers temporaires
+# =========================================
+*.tmp
+*.swp
+*.swo
+*.bak
+*.orig
+*.rej
+*~
+
+# =========================================
+# Sorties de scraping
+# =========================================
+cmc_pages.html
+cmc_detail.html
+cryptomonnaie.json
+cryptomonnaie_ratio_*.json
+out/
+__output__/
+
+# =========================================
+# Fichiers d’environnement
+# =========================================
+.env
+.env.*
+*.env
