@@ -220,7 +220,7 @@ Tout d'abord le fichier robots.txt de CoinMarketCap nous donne la permission de 
   * Démarrer un moteur pour **des centaines de pages détail** coûte cher.
   * Les temps d’attente et de synchronisation (sélecteurs, `wait_until`, `networkidle`) s’additionnent.
 
-# ✅ 5) Méthode retenue (celle qui marche et performe)
+# ✅ 5) Méthode retenue (celle qui marche)
 
 **Selenium pour la liste + `requests` pour les détails + BeautifulSoup partout**
 
