@@ -1,7 +1,7 @@
 
 # 🪙 Projet de scraping CoinMarketCap
 
-> **Formation IA School – Projet Python / Web Scraping**
+> **Formation NEXA - Digital School – Projet Python / Web Scraping**
 > Auteur : *Philippe H.*
 > Date : *2025*
 
